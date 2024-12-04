@@ -1,0 +1,11 @@
+RDS create
+Standard
+MySQL
+Free tier
+DB instance identifier-give name
+Give password
+Select VPC
+Create security group
+Give name for sg
+
+Create .
